@@ -25,7 +25,7 @@
 ## About me
 
 <p>
-    <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+    <img align="right" width="350" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" alt="Coding gif" />
     ✌️ &emsp; Enjoy doing programming and sharing knowledge<br />
     ❤️ &emsp; Love writing code and learning new features<br />
     📧 &emsp; Reach me anytime: chahinesquare@hotmail.com<br />
@@ -43,4 +43,6 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white"
+    <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
