@@ -10,15 +10,13 @@
 
 <!-- Social media badges -->
 <p align="center">
-    <a href="#">
+    <a href="https://www.linkedin.com/in/chahine-chahine-5ba191276 ">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="#">
+    <a href="https://instagram.com/chahinechahine1?igshid=NTc4MTIwNjQ2YQ== ">
         <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
+    
 </p>
 
 <!-- About me details -->
