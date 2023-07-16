@@ -16,9 +16,6 @@
     <a href="https://instagram.com/chahinechahine1?igshid=NTc4MTIwNjQ2YQ==">
         <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://github.com/chahine-tech">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
 </p>
 
 <!-- About me details -->
