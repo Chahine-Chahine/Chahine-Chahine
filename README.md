@@ -8,16 +8,6 @@
     I am a full stack web application developer from Lebanon.
 </p>
 
-<!-- Social media badges -->
-<p align="center">
-    <a href="https://www.linkedin.com/in/chahine-chahine-5ba191276">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://instagram.com/chahinechahine1?igshid=NTc4MTIwNjQ2YQ==">
-        <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-</p>
-
 <!-- About me details -->
 ## About me
 
